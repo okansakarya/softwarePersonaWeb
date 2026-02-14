@@ -30,3 +30,6 @@ https://drive.google.com/file/d/1fKEGSCb3eZlSGzvc0bPPRwACSXj6wans/view?usp=drive
 ---
 
 JSONPlaceholder API: https://jsonplaceholder.typicode.com/users
+
+Netlify Link : 
+https://cool-bienenstitch-2b4209.netlify.app/
