@@ -26,8 +26,7 @@ npm run build
 
 ## Proje Ekran Görüntüsü
 
-Proje teslimi için en az bir ekran görüntüsü ekleyebilirsiniz. Uygulamayı çalıştırıp (`npm run dev`) Todo bölümü ve API'den gelen veriler bölümünün göründüğü sayfanın ekran görüntüsünü alıp bu README'ye veya teslim formuna ekleyin.
-
+https://drive.google.com/file/d/1fKEGSCb3eZlSGzvc0bPPRwACSXj6wans/view?usp=drive_link
 ---
 
 JSONPlaceholder API: https://jsonplaceholder.typicode.com/users
